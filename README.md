@@ -4,7 +4,6 @@
 Currently, I am learning more about distributed systems and infra.
 In my free time, I like to build. Here are a few things i'm planning to build in next few months:
 
-- [Neon](https://github.com/): HLS streaming platform with adaptive quality and multi-bitrate transcoding 
 - [Navi](https://github.com,): A Go CLI tool to manage and navigate directories quickly.
 - [gossip-cache](https://github.com/axcec/gossip-cache): Distributed buffer-cache for Go services (128GB → 2.1GB) 
 - [cognitrace](https://github.com/axcec/cognitrace): AI agent memory leak scanner (LangChain/CrewAI → 92% RAM saved)

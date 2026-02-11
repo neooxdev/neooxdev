@@ -23,3 +23,6 @@ Here are some of the projects I’ve built while learning about **distributed sy
 - [**MiniPub**](https://github.com/neooxdev/MiniPub) – Lightweight publish-subscribe system for event distribution.
 - [**TraceLite**](https://github.com/neooxdev/TraceLite) – Minimal distributed tracing engine to visualize request flows and latency.
 - [**ConfigSphere**](https://github.com/neooxdev/ConfigSphere) – Dynamic configuration manager supporting hot reloads and versioning.
+- [**Runic**](https://github.com/neooxdev/Runic) - Runic is a browser-based Doom-inspired pixel shooter with Rust- and C-based game services, Go backend, and React + WebAssembly/WebRTC clients for real-time multiplayer. NATS JetStream,                                                         Postgres, and Kubernetes handle matchmaking, session management, and content delivery in a scalable, high-performance architecture.
+- [**Ozone**](https://github.com/neooxdev/ozone) - Ozone is an in-memory key-value database with durable write-ahead logging via Kafka, capable of rebuilding state after crashes.
+- [**Sentra**](https://github.com/yourusername/sentra) – Autonomous AI framework orchestrating intelligent matchmaking, session management, and content delivery at scale.

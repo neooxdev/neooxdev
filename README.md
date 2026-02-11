@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Yo 👋, wanna see what I’m all about? [Check it out]()
 
 Here are some of the projects I’ve built while learning about **distributed systems and infrastructure**:
 

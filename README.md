@@ -1,4 +1,4 @@
-# hello there 👋,
+# hello there 👋, More about me [here](https://prasad-firame.github.io)
 
 Here are some of the projects I’ve built while learning about **distributed systems and infrastructure**:
 

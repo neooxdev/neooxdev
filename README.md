@@ -1,4 +1,4 @@
-# Yo 👋, wanna see what I’m all about? [Check it out](https://neooxdev.github.io/)
+# hello there 👋,
 
 Here are some of the projects I’ve built while learning about **distributed systems and infrastructure**:
 

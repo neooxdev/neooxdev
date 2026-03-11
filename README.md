@@ -1,6 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=prasad-firame&style=flat-square)
 
 
+## Ship faster, ship often 
+
 ### Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk)
